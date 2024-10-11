@@ -26,4 +26,4 @@ Este proyecto fue desarrollado como una práctica para aprender a trabajar con A
 
 ## Ver la Página del Proyecto
 
-Puedes ver la página del proyecto en funcionamiento [aquí](https://karinaibarrait.github.io/api-user-request/).
+Puedes ver la página del proyecto en funcionamiento <a href="https://karinaibarrait.github.io/api-user-request/" target="_blank">aquí</a>.
